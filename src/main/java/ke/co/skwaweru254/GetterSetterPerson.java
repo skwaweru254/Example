@@ -1,6 +1,6 @@
-package org.example;
+package ke.co.skwaweru254;
 
-public class Person {
+public class GetterSetterPerson {
     private String name; // private = restricted access
 
     // Getter
@@ -16,7 +16,7 @@ public class Person {
 
     public static void main(String[] args) {
 
-        Person p = new Person();
+        GetterSetterPerson p = new GetterSetterPerson();
 
     }
 }
